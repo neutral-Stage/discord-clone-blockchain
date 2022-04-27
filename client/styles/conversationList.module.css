@@ -1,6 +1,5 @@
 .conversations {
   height: 100%;
-  overflow-y: scroll;
   position: relative;
   background: #2f3136;
 }
